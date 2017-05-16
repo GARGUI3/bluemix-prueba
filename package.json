@@ -26,5 +26,8 @@
     "promise": "^7.1.1",
     "querystring": "^0.2.0",
     "watson-developer-cloud": "^2.15.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
   }
 }
